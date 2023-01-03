@@ -1,0 +1,19 @@
+1- URL01 
+A public git repository with my project code 
+URL01:https://github.com/Ekenzy-101/Udacity-CDOND-Udapeople
+
+2- URL02
+Evidence of deployed and functioning front-end application in an S3 bucket
+URL02:http://udapeople-88f978a.s3-website-us-east-1.amazonaws.com
+
+3- URL03
+Evidence of deployed and functioning front-end application in CloudFront
+URL03:https://dr1v9iils5jvf.cloudfront.net
+
+4- URL04
+Evidence of healthy back-end application
+URL04:http://44.202.83.218:3030/api/status
+
+5- URL05
+Evidence of Prometheus Server
+URL05:http://54.174.252.125:9090
